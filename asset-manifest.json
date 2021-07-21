@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/1212/static/css/main.2b21b075.chunk.css",
+    "main.js": "/1212/static/js/main.61f68002.chunk.js",
+    "runtime-main.js": "/1212/static/js/runtime-main.751aa00c.js",
+    "static/css/2.09d05dc0.chunk.css": "/1212/static/css/2.09d05dc0.chunk.css",
+    "static/js/2.996d2231.chunk.js": "/1212/static/js/2.996d2231.chunk.js",
+    "static/js/3.b48b99ad.chunk.js": "/1212/static/js/3.b48b99ad.chunk.js",
+    "index.html": "/1212/index.html",
+    "static/js/2.996d2231.chunk.js.LICENSE.txt": "/1212/static/js/2.996d2231.chunk.js.LICENSE.txt",
+    "static/media/dapp_preview.7f73f082.png": "/1212/static/media/dapp_preview.7f73f082.png",
+    "static/media/home_cards.147b02f7.png": "/1212/static/media/home_cards.147b02f7.png",
+    "static/media/home_dex.2953de08.png": "/1212/static/media/home_dex.2953de08.png",
+    "static/media/home_security.7da40642.png": "/1212/static/media/home_security.7da40642.png",
+    "static/media/home_trustwallet_app.a5fbecb0.png": "/1212/static/media/home_trustwallet_app.a5fbecb0.png",
+    "static/media/ico1.e5de7ee1.png": "/1212/static/media/ico1.e5de7ee1.png",
+    "static/media/ico2.c845f624.png": "/1212/static/media/ico2.c845f624.png",
+    "static/media/ico3.f6b0ead9.png": "/1212/static/media/ico3.f6b0ead9.png",
+    "static/media/logo.5fc8e63b.png": "/1212/static/media/logo.5fc8e63b.png",
+    "static/media/loogoo.990b434f.png": "/1212/static/media/loogoo.990b434f.png",
+    "static/media/trust_logotype.9093780e.svg": "/1212/static/media/trust_logotype.9093780e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.751aa00c.js",
+    "static/css/2.09d05dc0.chunk.css",
+    "static/js/2.996d2231.chunk.js",
+    "static/css/main.2b21b075.chunk.css",
+    "static/js/main.61f68002.chunk.js"
+  ]
+}
