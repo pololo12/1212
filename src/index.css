@@ -1,0 +1,25 @@
+html {
+  overflow-x: hidden;
+  position:relative;
+}
+
+body {
+  min-width: 100vw;
+  margin: 0;
+  font-family: ibmplexsans,sans-serif;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.6;
+  color: #161c2d;
+  text-align: left;
+  background-color: #fff;
+  min-width: fit-content;
+  overflow-x: hidden;
+  position:relative;
+  -webkit-font-smoothing: antialiased;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
