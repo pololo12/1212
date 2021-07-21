@@ -1,5 +1,6 @@
 {
-  "name": "trustwallet",
+  "homepage": "http://pololo12.github.io/1212",
+  "name": "pl",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -25,6 +26,8 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "GENERATE_SOURCEMAP=false react-scripts build",
     "test": "react-scripts test",
@@ -49,6 +52,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^3.2.3",
     "sass": "^1.34.1",
     "sass-loader": "^12.0.0",
     "webpack": "^4.44.2"
